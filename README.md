@@ -1,4 +1,5 @@
 # Aeries-API
+Pre-Requisites:
 1). What is the Aeries URL and are they using SSL?
 
      Example: https://helandale.asp.aeries.net/admin
